@@ -1,0 +1,6 @@
+services:
+  web:
+    image: hind0098/juleb-image:latest
+    ports:
+      - "5000:4000"
+
